@@ -1,0 +1,6 @@
+num1 = int(input("what is the first number you want combined? "))
+num2 = int (input("what is the second number you want combined? "))
+print(num1,"plus",num2,"is" ,num1 + num2)
+print(num1,"minus",num2,"is" ,num1 - num2)
+print(num1,"divided by",num2,"is" ,num1 / num2)
+print(num1,"multiplied by",num2,"is" ,num1 * num2)
